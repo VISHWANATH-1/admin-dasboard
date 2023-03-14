@@ -4,7 +4,15 @@
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^20.4.54",
+    "@syncfusion/ej2-react-calendars": "^20.4.54",
+    "@syncfusion/ej2-react-charts": "^20.4.54",
+    "@syncfusion/ej2-react-dropdowns": "^20.4.54",
+    "@syncfusion/ej2-react-grids": "^20.4.54",
+    "@syncfusion/ej2-react-inputs": "^20.4.54",
+    "@syncfusion/ej2-react-kanban": "^20.4.54",
     "@syncfusion/ej2-react-popups": "^20.4.53",
+    "@syncfusion/ej2-react-richtexteditor": "^20.4.53",
+    "@syncfusion/ej2-react-schedule": "^20.4.53",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -40,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.6.0",
     "tailwindcss": "^3.2.7"
   }
 }
